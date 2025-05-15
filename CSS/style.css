@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-image:url(../images/new-years-eve-4734176_1280.jpg);
+}
+h1{ margin: 2%;
+    color:white;
+    text-shadow:3px 3px blue;
+}
+.text{
+    font-weight: 500;
+    font-size: x-large;
+}
+h2{
+    margin: 2%;
+    color:white;
+    text-shadow:3px 3px blue;
+}
+h3{
+    font-size: large;
+}
+P{  margin:2%;
+    color:white;
+    text-shadow:1px 1px black ;
+    font-weight: 700;
+}
+.container{
+    background-color:rgba(90, 242, 189, 0.38);
+    padding :.5%;
+    align-items: center;
+    color: navy;
+}
+.container h3{
+    color:rgb(34, 4, 63);
+    text-shadow:1px 1px rgb(16, 16, 20);
+}
+
+#submitbutton{
+    margin:1%;
+    font-size: small;
+    cursor:pointer;
+    background-color: rgb(4, 179, 249);
+    border-radius: 10px;
+}
